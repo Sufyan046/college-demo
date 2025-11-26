@@ -1,3 +1,3 @@
 # college-demo
 my repository
-author-Mohammed Sufyan
+author-Mohammed Sufyan(college)
